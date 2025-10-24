@@ -1,0 +1,11 @@
+{
+  "github_repository_info": {
+    "github_owner": "auto-res2",
+    "repository_name": "airas-20251024-100044-matsuzawa",
+    "branch_name": "main"
+  },
+  "research_topic": "Improving the efficiency of hyperparameter optimization",
+  "queries": [
+    "accelerated hyperparameter optimization"
+  ]
+}
